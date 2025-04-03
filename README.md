@@ -1,4 +1,6 @@
-# File Organizer - Organize Files in a Folder
+# File Organizer
+
+Organize Files in a Folder
 
 This script automatically organizes files in a specified folder based on their file types.
 
