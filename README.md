@@ -1,5 +1,3 @@
-# File Organizer
-
 This script automatically organizes files in a specified folder based on their file types.
 
 ## Features
